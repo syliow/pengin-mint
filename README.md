@@ -7,8 +7,6 @@
 ### ~~✅ [Check out the Verified Smart Contract here](https://rinkeby.etherscan.io/address/0x846fb11a8a8b3186d172ed7f283693815a7a3e18)~~
 (21 August 2023 Update)
 - Contract Redeployed to `Polygon Mumbai Testnet` due to Rinkeby Deprecation
-### 🖼️ [View NFT collection on Opensea](https://testnets.opensea.io/collection/pengin-nft-1)
-
 
 ## Why Solidity? 
 - I decided to use Solidity because it's one of the more popular programming languages for developing smart contracts. It's also very versatile, which means I can create a wide variety of contracts and applications with it.
